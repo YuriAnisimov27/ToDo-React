@@ -67,3 +67,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # ToDo-React
+
+КАК СКАЧАТЬ КОД:
+- клонировать репозиторий или скачать zip
+- в корневой папке выполнить 2 команды:
+  - npm install
+  - npm start
+  
+ 
