@@ -1,5 +1,12 @@
 .add-item {
-    width: 100%;
-    flex-grow: 1;
     margin-top: 15px;
+}
+
+.add-item input {
+    margin-right: 3px;
+}
+
+.add-item button {
+    height: 38px;
+    width: 150px;
 }
